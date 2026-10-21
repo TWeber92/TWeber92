@@ -23,5 +23,5 @@ A layered Java REST API with role-based access control, Spring Security, and JUn
 
 ### 📫 Connect
 * **Portfolio:** [tweber92.github.io](https://tweber92.github.io)
-* **LinkedIn:** [linkedin.com/in/your-link-here](https://linkedin.com/in/your-link-here)
+* **LinkedIn:** [linkedin.com/in/your-link-here](https://linkedin.com/in/tadweber/)
 * **Email:** tadweber92@gmail.com
