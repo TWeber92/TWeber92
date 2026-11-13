@@ -1,6 +1,18 @@
 # Hi, I'm Tad Weber 👋
 
-Full-stack developer focused on clean architecture, testable systems, and zero-cost serverless infrastructure.
+Independent developer, stay-at-home dad. I build systems that
+treat the browser as a runtime — event delegation, DOM-as-database,
+and multiple backends behind one contract.
+
+**Currently:** [portfolio-v2](https://tweber92.github.io/) — a
+multi-backend portfolio runtime (Spring Boot, Java/Maven, Postgres,
+Cloudflare Workers) with six live services in one carousel.
+
+**What I'm interested in:** architecture seams, inheritance as
+contract, and making complex systems legible.
+
+**Stack:** JavaScript (no framework), Java/Spring, PostgreSQL,
+Cloudflare Workers, AWS SDK.
 
 ### 🛠 Tech Stack
 * **Languages:** JavaScript (ESM), Java, Python, SQL
